@@ -7,42 +7,60 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Countdown", "Countdown\Coun
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Robber's language translator", "Robber's language translator\Robber's language translator.vcxproj", "{C68042C1-B5EF-4CE5-86D2-37D4DB4C58E3}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Mouse Utility", "Mouse Utility\Mouse Utility.pyproj", "{2ED46D5B-9CAF-4861-A687-4BA836D70861}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
 		Debug|ARM = Debug|ARM
 		Debug|ARM64 = Debug|ARM64
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
 		Release|ARM = Release|ARM
 		Release|ARM64 = Release|ARM64
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0706895F-604E-4C4E-9B82-58E56570636C}.Debug|Any CPU.ActiveCfg = Debug|Win32
 		{0706895F-604E-4C4E-9B82-58E56570636C}.Debug|ARM.ActiveCfg = Debug|Win32
 		{0706895F-604E-4C4E-9B82-58E56570636C}.Debug|ARM64.ActiveCfg = Debug|Win32
 		{0706895F-604E-4C4E-9B82-58E56570636C}.Debug|x64.ActiveCfg = Debug|x64
 		{0706895F-604E-4C4E-9B82-58E56570636C}.Debug|x64.Build.0 = Debug|x64
 		{0706895F-604E-4C4E-9B82-58E56570636C}.Debug|x86.ActiveCfg = Debug|Win32
 		{0706895F-604E-4C4E-9B82-58E56570636C}.Debug|x86.Build.0 = Debug|Win32
+		{0706895F-604E-4C4E-9B82-58E56570636C}.Release|Any CPU.ActiveCfg = Release|Win32
 		{0706895F-604E-4C4E-9B82-58E56570636C}.Release|ARM.ActiveCfg = Release|Win32
 		{0706895F-604E-4C4E-9B82-58E56570636C}.Release|ARM64.ActiveCfg = Release|Win32
 		{0706895F-604E-4C4E-9B82-58E56570636C}.Release|x64.ActiveCfg = Release|x64
 		{0706895F-604E-4C4E-9B82-58E56570636C}.Release|x64.Build.0 = Release|x64
 		{0706895F-604E-4C4E-9B82-58E56570636C}.Release|x86.ActiveCfg = Release|Win32
 		{0706895F-604E-4C4E-9B82-58E56570636C}.Release|x86.Build.0 = Release|Win32
+		{C68042C1-B5EF-4CE5-86D2-37D4DB4C58E3}.Debug|Any CPU.ActiveCfg = Debug|Win32
 		{C68042C1-B5EF-4CE5-86D2-37D4DB4C58E3}.Debug|ARM.ActiveCfg = Debug|Win32
 		{C68042C1-B5EF-4CE5-86D2-37D4DB4C58E3}.Debug|ARM64.ActiveCfg = Debug|Win32
 		{C68042C1-B5EF-4CE5-86D2-37D4DB4C58E3}.Debug|x64.ActiveCfg = Debug|x64
 		{C68042C1-B5EF-4CE5-86D2-37D4DB4C58E3}.Debug|x64.Build.0 = Debug|x64
 		{C68042C1-B5EF-4CE5-86D2-37D4DB4C58E3}.Debug|x86.ActiveCfg = Debug|Win32
 		{C68042C1-B5EF-4CE5-86D2-37D4DB4C58E3}.Debug|x86.Build.0 = Debug|Win32
+		{C68042C1-B5EF-4CE5-86D2-37D4DB4C58E3}.Release|Any CPU.ActiveCfg = Release|Win32
 		{C68042C1-B5EF-4CE5-86D2-37D4DB4C58E3}.Release|ARM.ActiveCfg = Release|Win32
 		{C68042C1-B5EF-4CE5-86D2-37D4DB4C58E3}.Release|ARM64.ActiveCfg = Release|Win32
 		{C68042C1-B5EF-4CE5-86D2-37D4DB4C58E3}.Release|x64.ActiveCfg = Release|x64
 		{C68042C1-B5EF-4CE5-86D2-37D4DB4C58E3}.Release|x64.Build.0 = Release|x64
 		{C68042C1-B5EF-4CE5-86D2-37D4DB4C58E3}.Release|x86.ActiveCfg = Release|Win32
 		{C68042C1-B5EF-4CE5-86D2-37D4DB4C58E3}.Release|x86.Build.0 = Release|Win32
+		{2ED46D5B-9CAF-4861-A687-4BA836D70861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ED46D5B-9CAF-4861-A687-4BA836D70861}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{2ED46D5B-9CAF-4861-A687-4BA836D70861}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{2ED46D5B-9CAF-4861-A687-4BA836D70861}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2ED46D5B-9CAF-4861-A687-4BA836D70861}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2ED46D5B-9CAF-4861-A687-4BA836D70861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ED46D5B-9CAF-4861-A687-4BA836D70861}.Release|ARM.ActiveCfg = Release|Any CPU
+		{2ED46D5B-9CAF-4861-A687-4BA836D70861}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{2ED46D5B-9CAF-4861-A687-4BA836D70861}.Release|x64.ActiveCfg = Release|Any CPU
+		{2ED46D5B-9CAF-4861-A687-4BA836D70861}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
